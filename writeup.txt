@@ -1,0 +1,9 @@
+This repo requires tensorlfow 1.15.0 and cuda 7.0
+This repo is a fork from cleaverhans. I have modified Two files. The first is the mnst_tutorial_jsma.py, navigating from the NJSMA 
+direcgtory. The file is in the cleaverhans_tutorials. This is the file you will run. Lines 38-45 set parameters like sample size, random 
+seed, and use trained network or train new network.Lines 212 to 302 are detecting the number of nieghboring pixels in each image. 
+Lines 325 to 370 are where the program prints the results to the screen.
+
+The second file I modified was the saliency_map_method.py. From the NJSMA directory this file is located at cleverhans/attacks/saliency_map_method.py
+This file contains the JSMA algorithm implementation. Line 241 is the orignal algorithm, line 242 is the modified algorithm.
+

@@ -1,0 +1,112 @@
+Modifed: 
+seed: 124
+sample size 20
+average neighbors per modified pixel  1.62
+Avg. rate of successful adv. examples 0.88518519
+Avg. rate of perturbed features 0.26711732
+MIN of perturbed features 0.18112245
+MAX of perturbed features 0.41836736
+Avg. rate of perturbed features for successful adversarial examples 0.23101191
+Min of perturbed features for successful adversarial examples 0.18112245
+Max of perturbed features for successful adversarial examples 0.40178570
+
+seed 124
+sample size 50
+average neighbors per modified pixel  1.0746268656716418
+Avg. rate of successful adv. examples 0.88222222
+Avg. rate of perturbed features 0.26239285
+MIN of perturbed features 0.11862245
+MAX of perturbed features 0.41836736
+Avg. rate of perturbed features for successful adversarial examples 0.22589286
+Min of perturbed features for successful adversarial examples 0.11862245
+Max of perturbed features for successful adversarial examples 0.40178570
+
+seed 5
+sample size 90
+average neighbors per modified pixel  1.8651162790697675
+Avg. rate of successful adv. examples 0.86790123
+Avg. rate of perturbed features 0.26881093
+MIN of perturbed features 0.00765306
+MAX of perturbed features 0.45408162
+Avg. rate of perturbed features for successful adversarial examples 0.22737245
+Min of perturbed features for successful adversarial examples 0.00765306
+Max of perturbed features for successful adversarial examples 0.44005102
+
+seed 9
+sample size 200
+average neighbors per modified pixel  1.7454545454545454
+Avg. rate of successful adv. examples 0.86277778
+Avg. rate of perturbed features 0.27282783
+MIN of perturbed features 0.09183674
+MAX of perturbed features 0.45280612
+Avg. rate of perturbed features for successful adversarial examples 0.22919580
+Min of perturbed features for successful adversarial examples 0.09183674
+Max of perturbed features for successful adversarial examples 0.44770408
+
+seed 69
+sample size 500
+average neighbors per modified pixel  2.0425531914893615
+Avg. rate of successful adv. examples 0.85666667
+Avg. rate of perturbed features 0.27434260
+MIN of perturbed features 0.12500000
+MAX of perturbed features 0.47704083
+Avg. rate of perturbed features for successful adversarial examples 0.22843471
+Min of perturbed features for successful adversarial examples 0.12500000
+Max of perturbed features for successful adversarial examples 0.46556121
+
+Original: 
+seed:124
+sample size 20
+average neighbors per modified pixel  1.6185567010309279
+Avg. rate of successful adv. examples 0.87037037
+Avg. rate of perturbed features 0.26719385
+MIN of perturbed features 0.18112245
+MAX of perturbed features 0.41836736
+Avg. rate of perturbed features for successful adversarial examples 0.22595237
+Min of perturbed features for successful adversarial examples 0.18112245
+Max of perturbed features for successful adversarial examples 0.40561223
+
+seed 124
+sample size 50
+average neighbors per modified pixel  1.0153846153846153
+Avg. rate of successful adv. examples 0.88000000
+Avg. rate of perturbed features 0.26232141
+MIN of perturbed features 0.11862245
+MAX of perturbed features 0.41836736
+Avg. rate of perturbed features for successful adversarial examples 0.22478315
+Min of perturbed features for successful adversarial examples 0.11862245
+Max of perturbed features for successful adversarial examples 0.40561223
+
+seed 5
+sample size 90
+average neighbors per modified pixel  2.0088495575221237
+Avg. rate of successful adv. examples 0.86790123
+Avg. rate of perturbed features 0.26864228
+MIN of perturbed features 0.00765306
+MAX of perturbed features 0.45918366
+Avg. rate of perturbed features for successful adversarial examples 0.22722931
+Min of perturbed features for successful adversarial examples 0.00765306
+Max of perturbed features for successful adversarial examples 0.43750000
+
+seed 9
+sample size 200
+average neighbors per modified pixel  1.7025316455696202
+Avg. rate of successful adv. examples 0.85555556
+Avg. rate of perturbed features 0.27275065
+MIN of perturbed features 0.09183674
+MAX of perturbed features 0.45280612
+Avg. rate of perturbed features for successful adversarial examples 0.22699173
+Min of perturbed features for successful adversarial examples 0.09183674
+Max of perturbed features for successful adversarial examples 0.44770408
+
+seed 69
+sample size 500
+average neighbors per modified pixel  2.0425531914893615
+Avg. rate of successful adv. examples 0.85400000
+Avg. rate of perturbed features 0.27422246
+MIN of perturbed features 0.12500000
+MAX of perturbed features 0.46938777
+Avg. rate of perturbed features for successful adversarial examples 0.22748928
+Min of perturbed features for successful adversarial examples 0.12500000
+Max of perturbed features for successful adversarial examples 0.46556121
+
